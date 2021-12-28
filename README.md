@@ -1,8 +1,6 @@
-# My Personal Github Repository
+# Note to self
 
-**Note to self**
-
-*Learn how to create GTK themes. Should be pretty simple as it is just CSS*
+**Learn how to create GTK themes. Should be pretty simple as it is just CSS**
 
 Here is the link to the linux.org page on it:
 
