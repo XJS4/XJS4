@@ -1,3 +1,1 @@
-# Arch macOS Style Config Notes
-
-**
+# I use Arch by the way
